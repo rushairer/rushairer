@@ -18,4 +18,4 @@ My Applications:
 
 ![Aben's GitHub stats](https://github-readme-stats.vercel.app/api?username=rushairer&show_icons=true&theme=onedark&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushairer&layout=compact&theme=onedark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=io84team&repo=umi-plugin-oauth2-client&theme=onedark)](https://github.com/io84team/umi-plugin-oauth2-client) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=io84team&repo=jazzavatar-go&theme=onedark)](https://github.com/io84team/jazzavatar-go)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=io84team&repo=umi-plugin-oauth2-client&theme=onedark)](https://github.com/io84team/umi-plugin-oauth2-client) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rushairer&repo=ABAlbum&theme=onedark)](https://github.com/rushairer/ABAlbum)
