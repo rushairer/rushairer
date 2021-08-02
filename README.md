@@ -21,5 +21,3 @@ My Applications:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rushairer&repo=ZoomableImageView&theme=onedark)](https://github.com/rushairer/ZoomableImageView)
 
 ![Aben's GitHub stats](https://github-readme-stats.vercel.app/api?username=rushairer&show_icons=true&theme=onedark&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushairer&layout=compact&theme=onedark)
