@@ -14,10 +14,4 @@ My Applications:
 - ColorCamera https://apps.apple.com/us/app/id1151401197
 
 
--------
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=io84team&repo=umi-plugin-oauth2-client&theme=onedark)](https://github.com/io84team/umi-plugin-oauth2-client) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rushairer&repo=SheetPresentation&theme=onedark)](https://github.com/rushairer/SheetPresentation) 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rushairer&repo=ZoomableImageView&theme=onedark)](https://github.com/rushairer/ZoomableImageView) [![SwipeButton](https://github-readme-stats.vercel.app/api/pin/?username=rushairer&repo=SwipeButton&theme=onedark)](https://github.com/rushairer/SwipeButton)
-
-![Aben's GitHub stats](https://github-readme-stats.vercel.app/api?username=rushairer&show_icons=true&theme=onedark&count_private=true)
