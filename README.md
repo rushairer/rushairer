@@ -3,8 +3,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working from home.
-- 🌱 I’m currently learning SwiftUI.
-- 💬 Ask me about Swift/SwiftUI/React/Vue/PHP/Objective-C/Docker...
+- 🌱 I’m currently learning golang & SwiftUI.
+- 💬 Ask me about golang/Swift/SwiftUI/React/Vue/PHP/Objective-C/Docker...
 - 📫 How to reach me: https://aben.io or https://github.com/rushairer/rushairer/issues
 
 My Applications:
